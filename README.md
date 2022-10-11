@@ -13,11 +13,11 @@ Also there is the "booking" infoblock which passes an info about busy autos for 
 # Acounts
 If you'll setup this backup, you need accounts:
 
-admin
+admin <br>
 x12345
 
-zam
+zam <br>
 x12345
 
-employee
+employee <br>
 qwerty123
