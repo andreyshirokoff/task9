@@ -10,7 +10,7 @@ Director has an access to all autos' categories (category 3 ex. KIA TAHOE).
 Driver binds to auto. If you bind driver to auto in infoblock element information will display in driver entry in High-Load blocks. And vice versa (realized by EventHandler).<br>
 Also there is the "booking" infoblock which passes an info about busy autos for a certain time, and the component displays free autos.
 
-# Acounts
+# Accounts
 If you'll setup this backup, you need accounts:
 
 admin <br>
