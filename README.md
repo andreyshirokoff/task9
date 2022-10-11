@@ -11,7 +11,7 @@ Driver binds to auto. If you bind driver to auto in infoblock element informatio
 Also there is the "booking" infoblock which passes an info about busy autos for a certain time, and the component displays free autos.
 
 # Accounts
-If you'll setup this backup, you need accounts:
+If you setup this backup you'll need accounts:
 
 admin <br>
 x12345
